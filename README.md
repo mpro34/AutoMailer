@@ -1,4 +1,6 @@
-# fullstack_app
+# AutoMailer
+Hosted on Heroku here:
+``` https://sleepy-cove-49869.herokuapp.com/ ```
 ##### Full Stack web app with React, Node, Express and Mongo
 This project contains two package.json files; one for the server, one for the client.
 
